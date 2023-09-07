@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  width="40" height="40" />
 - 😄 Pronouns: she/her
 
 ## Tools and Languages
