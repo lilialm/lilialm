@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lilian and my nickname is "Lili". I'm currently a Fullstack Student at Labenu!
+## My name is Lilian and my nickname is "Lili". I'm currently a Java Student at Generation Brasil!
 
-- 🔭 I’m currently working on an project using a Pokemon API.
 - 🌱 I’m currently learning 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  width="40" height="40" />
 - 😄 Pronouns: she/her
 
 ## Tools and Languages
