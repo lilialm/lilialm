@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lilian and my nickname is "Lili". I'm currently a Java Student at Generation Brasil!
+## My name is Lilian and my nickname is "Lili". I'm currently a Student at Generation Brasil!
 
 - 🌱 I’m currently learning 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" />
